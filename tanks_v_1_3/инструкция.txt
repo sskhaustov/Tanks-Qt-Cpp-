@@ -1,0 +1,13 @@
+You must destroy all enemy tanks
+
+Control:
+W - go up
+S - go down
+A - go left
+D - go right
+X - fire
+P - pause
+
+Copyright by Khaustov Sergey
+Moscow, Russia 2015
+All rights reserved
